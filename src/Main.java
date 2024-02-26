@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        int money = 80;
+        int money = 700;
 
         if (money > 500){
             System.out.println("Pizza");
